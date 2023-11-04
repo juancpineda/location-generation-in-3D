@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17c14b4cdcb7b504d9a989a028ce320a, type: 3}
+  m_Name: TerrainType01
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: 7ae89a6dcb8d2104a973e5b43f72bf47, type: 2}
+  noiseScale: 0.75
+  obstacleThreshold: 0.9
+  decorationThreshold: 0.7
+  obstacles:
+  - {fileID: 4689471347981907086, guid: 0cd2c24da758e5847994392a8d5e2116, type: 3}
+  - {fileID: 7962811218694861479, guid: a4b6396414b106d47a4747e00d7cbf96, type: 3}
+  - {fileID: 391452429390742725, guid: 0d0271adba3949a48987b6f0de7664f6, type: 3}
+  - {fileID: 8167298408982169921, guid: 49fb5c93b46d84a44807008bc4c41b5a, type: 3}
+  - {fileID: 4453542287635300280, guid: c16ac627071c48549aaf8b4e5c8414a5, type: 3}
+  - {fileID: 1000472415715950880, guid: 076e5278b1a37344bbd4dbcf713fbaae, type: 3}
+  - {fileID: 5790299053600083937, guid: efa2dd3f3557be740800aeb96d888a5f, type: 3}
+  - {fileID: 2474532604763457461, guid: 6cd4cb2d1cae69044a10fa6c643a373a, type: 3}
+  decorations:
+  - {fileID: 5701811367108716713, guid: 5d4b54718d7e2b0468ebb9d23b7b14e4, type: 3}
+  - {fileID: 2819126656709940769, guid: c0fb680c973cc5043a5af259a2dd31c1, type: 3}
+  - {fileID: 6300541377327634416, guid: 9cba49d49259d334e81576e361cba42f, type: 3}
+  - {fileID: 5052154931569774320, guid: 2bc3d4e41f79f1d4bb7b201076eb5a34, type: 3}
+  - {fileID: 4794018928041424422, guid: 8ed20a917af2fe84b938386af993aa0d, type: 3}
+  - {fileID: 8972738628532603012, guid: 35a03f687b596004eb512bdf03e00f44, type: 3}
+  - {fileID: 6515366186856928141, guid: 7b24da642e06eba4da1af1c27964bea5, type: 3}
+  - {fileID: 2202416379283588377, guid: 6c29518686f20b44b8b043f16405dd35, type: 3}
