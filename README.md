@@ -1,6 +1,6 @@
 # location-generation-in-3D
 Implement location generation in 3D in Unity.
-
+ 
 ● the world is infinite
 ● Each chunk have obstacles such as trees.
 ● Chunks have decorative elements such as flowers, etc.
