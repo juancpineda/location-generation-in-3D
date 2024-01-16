@@ -1,0 +1,19 @@
+{
+  "name": "com.LocationGen.Sdk",
+  "version": "2.1.1",
+  "description": "This package Location Gen",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juancpineda/location-generation-in-3D.git"
+  },
+  "author": "Juan Pineda <JuanCPineda2010@gmail.com>",
+  "keywords": [
+    "upm",
+    "git",
+    "editor"
+  ],
+  "displayName": "LocationGen Git Extension",
+  "unity": "2020.3",
+  "type": "tool"
+}
